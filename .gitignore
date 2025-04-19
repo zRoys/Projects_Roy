@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.parquet
+*.json
+
+# Output and logs
+*.log
+*.out
+*.tmp
+
+# Reports and exports
+*.pdf
+*.docx
+*.pptx
+*.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode config (optional)
+.vscode/
+
+# Spyder config (optional)
+.spyderproject
+.spyproject
+
+# Environment files
+.env
+*.env
+
+# Pytest cache
+.pytest_cache/
